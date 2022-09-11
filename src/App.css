@@ -28,6 +28,34 @@
   color: #61dafb;
 }
 
+.submitButton{
+  background-color: yellowgreen;
+}
+
+p {
+  font-size:1.5rem;
+  font-family: Rockwell;
+}
+
+h1 {
+  color: orangered;
+}
+
+h2 {
+  color: green;
+}
+
+.movieListHeader{
+  color: red;
+}
+
+.movieList {
+  background-color: red;
+}
+
+.updateButton {
+  background-color: royalblue;
+}
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
